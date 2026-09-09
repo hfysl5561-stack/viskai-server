@@ -1,0 +1,6 @@
+SUPABASE_URL=ضع_رابط_مشروعك_هنا
+SUPABASE_ANON_KEY=ضع_مفتاح_anon_public_هنا
+FAL_KEY=ضع_مفتاح_fal_ai_هنا
+NOWPAYMENTS_API_KEY=ضع_مفتاح_nowpayments_هنا
+NOWPAYMENTS_IPN_SECRET=ضع_IPN_secret_هنا
+PORT=3000
